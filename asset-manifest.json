@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Login-signup-forms-with-react-using-formik-and-Yup/static/css/main.a3990db3.chunk.css",
+    "main.js": "/Login-signup-forms-with-react-using-formik-and-Yup/static/js/main.be59c632.chunk.js",
+    "main.js.map": "/Login-signup-forms-with-react-using-formik-and-Yup/static/js/main.be59c632.chunk.js.map",
+    "runtime-main.js": "/Login-signup-forms-with-react-using-formik-and-Yup/static/js/runtime-main.26414492.js",
+    "runtime-main.js.map": "/Login-signup-forms-with-react-using-formik-and-Yup/static/js/runtime-main.26414492.js.map",
+    "static/js/2.115d3ef6.chunk.js": "/Login-signup-forms-with-react-using-formik-and-Yup/static/js/2.115d3ef6.chunk.js",
+    "static/js/2.115d3ef6.chunk.js.map": "/Login-signup-forms-with-react-using-formik-and-Yup/static/js/2.115d3ef6.chunk.js.map",
+    "index.html": "/Login-signup-forms-with-react-using-formik-and-Yup/index.html",
+    "precache-manifest.4b589a6e61610e3a4d19d1d255bb6a3f.js": "/Login-signup-forms-with-react-using-formik-and-Yup/precache-manifest.4b589a6e61610e3a4d19d1d255bb6a3f.js",
+    "service-worker.js": "/Login-signup-forms-with-react-using-formik-and-Yup/service-worker.js",
+    "static/css/main.a3990db3.chunk.css.map": "/Login-signup-forms-with-react-using-formik-and-Yup/static/css/main.a3990db3.chunk.css.map",
+    "static/js/2.115d3ef6.chunk.js.LICENSE.txt": "/Login-signup-forms-with-react-using-formik-and-Yup/static/js/2.115d3ef6.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.26414492.js",
+    "static/js/2.115d3ef6.chunk.js",
+    "static/css/main.a3990db3.chunk.css",
+    "static/js/main.be59c632.chunk.js"
+  ]
+}
